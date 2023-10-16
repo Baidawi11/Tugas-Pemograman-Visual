@@ -1,0 +1,10 @@
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\bin\Debug\Tugas DataGrindView.exe
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\bin\Debug\Tugas DataGrindView.pdb
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas_DataGrindView.Form1.resources
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas_DataGrindView.Properties.Resources.resources
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas DataGrindView.csproj.GenerateResource.Cache
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas DataGrindView.exe
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas DataGrindView.pdb
+C:\Users\Windows 10\documents\visual studio 2010\Projects\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas DataGrindView.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Pemprograman Visual 3\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas DataGrindView.exe
+D:\Kuliah\Semester 5\Pemprograman Visual 3\Tugas DataGrindView\Tugas DataGrindView\obj\x86\Debug\Tugas DataGrindView.pdb

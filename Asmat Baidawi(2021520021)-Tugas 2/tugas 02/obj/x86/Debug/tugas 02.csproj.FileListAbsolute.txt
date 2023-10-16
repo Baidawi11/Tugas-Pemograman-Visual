@@ -1,0 +1,8 @@
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\bin\Debug\tugas 02.exe
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\bin\Debug\tugas 02.pdb
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\obj\x86\Debug\tugas_02.Form1.resources
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\obj\x86\Debug\tugas_02.Properties.Resources.resources
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\obj\x86\Debug\tugas 02.csproj.GenerateResource.Cache
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\obj\x86\Debug\tugas 02.exe
+c:\users\windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\obj\x86\Debug\tugas 02.pdb
+C:\Users\Windows 10\documents\visual studio 2010\Projects\tugas 02\tugas 02\obj\x86\Debug\tugas 02.csprojResolveAssemblyReference.cache

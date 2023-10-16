@@ -1,0 +1,7 @@
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\bin\Debug\Tugas Pemprograman Visual.exe
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\bin\Debug\Tugas Pemprograman Visual.pdb
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\obj\x86\Debug\Tugas_Pemprograman_Visual.Form1.resources
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\obj\x86\Debug\Tugas_Pemprograman_Visual.Properties.Resources.resources
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\obj\x86\Debug\Tugas Pemprograman Visual.csproj.GenerateResource.Cache
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\obj\x86\Debug\Tugas Pemprograman Visual.exe
+c:\users\windows 10\documents\visual studio 2010\Projects\Tugas Pemprograman Visual\Tugas Pemprograman Visual\obj\x86\Debug\Tugas Pemprograman Visual.pdb
